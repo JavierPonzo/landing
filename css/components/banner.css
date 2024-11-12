@@ -1,4 +1,7 @@
-/* .banner {
-  height: 600px;
+.banner {
   background-size: cover;
-} */
+  background-position: center;
+  padding: 60px 20px;
+  color: white;
+  text-align: center;
+}

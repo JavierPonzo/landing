@@ -1,10 +1,12 @@
 .btn-book {
-  color: #999999;
-  border: 1px solid #999999;
-  padding: 16px 24px;
-  border-radius: 50px;
-  font-weight: lighter;
-  opacity: 0.6;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: hsl(12, 3%, 37%);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 20px;
 }
 .btn-book:hover {
   opacity: 1;
